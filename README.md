@@ -1,2 +1,2 @@
 # Call-Centre-Analysis-Dashboard
-creating a dashboard with Power BI skills.
+created a dashboard with Power BI skills.
